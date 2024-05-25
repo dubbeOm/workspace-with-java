@@ -1,0 +1,42 @@
+*{
+    margin: 0%;
+    padding: 0%;
+   
+   
+}
+.mainCoantainer{
+    border: 1px;
+    height: 100px;
+    width: 100%;
+    display: flex;
+}
+
+.avatar{
+    height: 30px;
+    width: 30px;
+    background: none;
+    background-size: cover;
+    margin: 5px;
+    padding: 5px;
+}
+.imagecoantainer {
+    border: 1px solid;
+    height: 300px;
+    width: 400px;
+    text-align: center;
+    margin: 20px;
+    padding: 40px;
+    background-image: url("https://th.bing.com/th/id/OIP.Uc6eZ31itjoqx71i9wQcMAHaFj?pid=ImgDet&rs=1");
+    color:white;
+    background-image:cover;
+
+}
+button{
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    size: 10px;
+    padding: 5px;
+    margin-bottom: 30px;
+    height: 30px;
+    width: 80px;
+}
